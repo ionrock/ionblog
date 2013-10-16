@@ -1,0 +1,52 @@
+=========================================================
+ The Development Server and Porting A Test Suite to Nose
+=========================================================
+
+
+I have a dream of a test server. This server starts when you run your
+tests and stays up after it is done. It will help with things like
+running your failing test on every file change and make reporting to a
+continuous integration server a breeze. Deployment means moving the
+config to different servers and pulling in the new code, still being
+able to run the tests and even keep an eye on performance metrics.
+
+Alas this dream has so far been a pipe dream. The reason is because I
+have a single requirement that never seems to make life easy. It is the
+1 command test run that kills things. It is very difficult to start the
+whole process, wait for orchestra of services to start and then run the
+tests. Why this is so hard, I can't really understand.
+
+In py.test we have some configuration where a test can register what
+services it needs. I always felt that was elegant, yet had the ability
+to be somewhat wasteful. If you refactor your code, there is a good
+chance that many of the test requirements could have changed. I'd go so
+far as to argue they should have changed in that refactoring should help
+to make each test more atomic, which hopefully means fewer tests truly
+need the extra running services.
+
+I'm making a go at porting our tests to nose and finding the simplicity
+of their test fixtures nice and simple. Yet, it also feels harder to
+control. Obviously if relaxed my one command constraint or made that
+command a script that started and verified the main server prior to
+starting my test runner then it should be more doable. I might in fact
+do just that. With that in mind, it feels a little off.
+
+One could compare the struggle of my design vs. reality in a similar
+light as running applications in a VM vs. a single directory. Sometimes
+it is easier to just say heck with it and just copy the VM and put it
+out there instead of crafting your application and environment to run in
+a single directory. After all, I see tons of VPS hosting out there along
+side the "cloud" when developers talk about deploying apps. At the same
+time, there is WebFaction doing a great job of supporting seemingly
+complex application deployments with only a single directory.
+
+I think I'm going to go ahead and punt on my running the tests with one
+command. It doesn't seem like a huge deal to check that a process is
+running before moving onto the tests. That seems like a pretty safe way
+to start while still making it discoverable.
+
+
+.. author:: default
+.. categories:: code
+.. tags:: programming, python, testing
+.. comments::
