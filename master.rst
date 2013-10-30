@@ -4,8 +4,11 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2013/10/29/protect_privacy
+   2013/10/24/framework_frustration
+   2013/10/21/mechanical_switching_keyboards
+   2013/10/18/recent_finds
    2013/10/15/hosting_changes
-   2013/10/15/my-blog
    2013/09/09/Electric_Sheep_Should_Have_RFID
    2013/08/29/Data_Realization
    2013/08/27/Amazon_Data_Pipeline
