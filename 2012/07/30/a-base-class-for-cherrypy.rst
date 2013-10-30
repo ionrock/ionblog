@@ -1,5 +1,6 @@
-A Base Class for CherryPy
-#########################
+===========================
+ A Base Class for CherryPy
+===========================
 
 I'm a fan of `CherryPy`_. It is a great framework that hits a sweet spot
 in terms of features and flexibility. My biggest struggle though in
