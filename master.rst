@@ -4,6 +4,8 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2013/11/07/announcing_cachecontrol_0_7_1
+   2013/10/30/avoiding_virtualenvwrapper_in_build_tasks
    2013/10/29/protect_privacy
    2013/10/24/framework_frustration
    2013/10/21/mechanical_switching_keyboards
