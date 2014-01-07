@@ -4,6 +4,10 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2014/01/06/hiding_complexity_vs__too_many_layers
+   2013/11/26/announcing_cachecontrol_0_8_2_now_with_etag_and_vary_support
+   2013/11/21/milk_the_cat_
+   2013/11/14/our_eyes_are_modems
    2013/11/07/announcing_cachecontrol_0_7_1
    2013/10/30/avoiding_virtualenvwrapper_in_build_tasks
    2013/10/29/protect_privacy
