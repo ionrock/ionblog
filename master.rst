@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2014/01/11/announcing_cachecontrol_0_9_2
    2014/01/06/hiding_complexity_vs__too_many_layers
    2013/11/26/announcing_cachecontrol_0_8_2_now_with_etag_and_vary_support
    2013/11/21/milk_the_cat_
