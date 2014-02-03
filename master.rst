@@ -4,6 +4,8 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2014/02/02/immutability
+   2014/01/31/my_first_cojure_experience
    2014/01/21/code_by_line
    2014/01/11/announcing_cachecontrol_0_9_2
    2014/01/06/hiding_complexity_vs__too_many_layers
