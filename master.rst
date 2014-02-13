@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2014/02/12/queues
    2014/02/02/immutability
    2014/01/31/my_first_cojure_experience
    2014/01/21/code_by_line
