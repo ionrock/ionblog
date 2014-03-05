@@ -4,6 +4,8 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2014/02/28/concurrency_transitions
+   2014/02/24/a_sample_cherrypy_app_stub
    2014/02/12/queues
    2014/02/02/immutability
    2014/01/31/my_first_cojure_experience

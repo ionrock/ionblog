@@ -134,6 +134,7 @@ missing?
 .. _Django: https://www.djangoproject.com/
 .. _Mongre2: http://mongrel2.org/
 .. _ZeroMQ: http://zeromq.org/
+.. _Mongrel2: http://mongrel2.org/
 
 
 .. author:: default
