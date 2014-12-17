@@ -8,6 +8,7 @@ addresses from your address book? That is what spam filters are for
 anyway. Besides, you can easily unsubscribe from any spam and, thanks to
 the CAN SPAM act, sue those who disregard your desire not to be
 bothered. What really bothers me is that my phone is not my computer.
+
 Let me explain. A computer has an operating system that works atop a
 file system. You can install different operating systems or applications
 and you can use different filesystems in some cases. You can create
@@ -15,25 +16,30 @@ folders and organize your files however you want. More than one person
 typically can use a computer thanks to the features of the operating
 system. Your computer is something that you can control at a very low
 level. This is very different from your phone.
+
 A cell phone is on a provider's network, which brings with it certain
 restrictions. They have limited physical resources and as such they want
 to control what can use those resources. Phones also have to adhere to
 standards set by the government for things like the spectrum at which
 they communicate and how powerful or limited the antennae function.
+
 Generally, you can't easily change the operating system the phone uses
 and installing applications is done through an intermediary (the iTunes
 App Store, Google App Store, etc.).  Most importantly though, phones are
 used by only one person.
+
 The larger distinction here is that a phone is personal by default, yet
 it is the least personalized. If an application is run on your phone,
 there is a good chance it has access to everything on that phone,
 contacts, text messages, call history, minutes used, billing info,
 location information, other applications, etc. It is trivial to access
 this kind of information because the platform is completely controlled.
+
 There is probably documentation that explicitly shares how to access all
 this information. Since a phone is personal, the relevance to some
 company is that the information found on the phone can be directly
 applied to a specific person.
+
 This is honestly a little scary. It is not scary in that I have things
 to "hide" but it is scary because there are things that I don't feel
 comfortable sharing. If a person comes to your home you welcome them
@@ -45,6 +51,7 @@ make, so in theory, we should be offended these apps take our personal
 information on our phones without even asking. It is rude to do as a
 guest (on your phone) and it is scary because they tell others for
 money.
+
 As a programmer, the reasons apps don't ask if it is OK is because it
 is inconvenient. I don't believe Rovio is out to do anything more than
 make money selling games. If they can collect information in the mean
@@ -57,6 +64,7 @@ most would probably do the same thing in their shoes. You have a captive
 audience, a sample,  you can gather specific, accurate information from
 at almost any time in order to learn something new to help sell other
 products.
+
 The tough part is that it is convenient for users. Google prides itself
 on the usefulness of their search results. They take all that anonymous
 information and use it to help understand what people really want. It is
@@ -69,10 +77,12 @@ rarely want to provide all that instruction. If you provide a value for
 all the variables your computer needs, it would be a total waste of your
 time. Again, if you were asked if your information could be used every
 time you opened Angry Birds, would still play it?
+
 I'm not saying that we shouldn't use Google or play Angry Birds. We
 simply need to be more understanding of what we really have in our
 pockets. Our phones are much closer to our wallet and private life than
 our computers are. A computer can do anything, but a phone is personal.
+
 The convenience the applications provide is helpful to a point, but we
 as users need to find a way to force our desire for privacy. Taking the
 time to see what options are available for applications is a good first

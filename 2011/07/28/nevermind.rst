@@ -10,22 +10,26 @@ such things it seems obvious that you recognized greatness when it hit
 you in the face. I did not have the same realization that this music
 would change the world, but I can honestly say it is because I was too
 busy being changed by it.
+
 I first heard Smells Like Teen Spirit at a skatepark in the valley (in
 California, not the great state of Texas). This was actually my first
 trip to a skate park, so the stage was definitely set for something
 amazing to happen in a young kid without an older sibling interested in
 punk. I skated most of the day and in the afternoon the intro riff
 started and immediately I felt like it was my turn in the skate movie.
+
 The reality is I probably dropped into some mini ramp and got hung up on
 the coping due to a lack of turning knowledge. Yet, I can honestly say
 that after hearing it, I was changed. It was probably the first time I
 heard heavy music that wasn't metal or industrial or some other
 extremely stylized music (aka Hair bands).
+
 I was hooked. A friend of mine bought the record and I copied it. His
 dad was concerned it was too negative but we were able to persuade him
 that our interest lied in the music more than the lyrics, which was more
 or less true. I listened to that record like crazy and eventually
 everyone I knew also became hooked.
+
 After finding Nirvana, I still wanted more music. Probably one of my
 favorites songs was *Territorial Pissings* because it was fast. Looking
 back at it now that I've played music for quite a while it is safe to
@@ -34,6 +38,7 @@ Nirvana, I hear `Fugazi`_ and that was it. I loved *`13 Songs`_* and
 played it every second of the day, with my only complaint being I wished
 it was faster. `Minor Threat`_ happened to me and that was it. I loved
 hardcore punk and Nirvana was a sellout.
+
 As my tastes evolved and I was exposed to more music like pop punk, emo
 (not the guy liner emo, but the `Rites of Spring`_ and midwest / Jade
 Tree / Polyvinyl / Crank Records emo), hardcore and the wealth of other
@@ -43,6 +48,7 @@ scope of bands that I listened to and to an extent the music I was
 playing. After the band I was in broke up, I didn't really do much with
 music for a bit. I still listened, but there wasn't a lot of purpose as
 there was before.
+
 Fortunately, Lauren mentioned that we should start playing again and
 that is when `Ume`_ started. It began by going to some shows and playing
 in a garage. One thing that happened though was that I started finding

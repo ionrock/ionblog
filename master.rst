@@ -4,6 +4,15 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2014/12/17/thinking_about_etls
+   2014/11/08/dadd_erroremail_and_cachecontrol_releases
+   2014/11/03/ugly_attributes
+   2014/10/25/functional_programming_in_python
+   2014/07/21/parallel_processing
+   2014/07/15/view_source
+   2014/07/05/property_pattern
+   2014/05/27/iterative_code_cycle
+   2014/05/27/tdd
    2014/02/28/concurrency_transitions
    2014/02/24/a_sample_cherrypy_app_stub
    2014/02/12/queues

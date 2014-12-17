@@ -1,5 +1,5 @@
-SQL Isn&#039;t the Problem
-##########################
+SQL Isn't the Problem
+#####################
 
 I read this `article`_ commenting on Facebook and how their MySQL based
 system must be so complex that it is hell to work with. At the end of
@@ -8,8 +8,10 @@ practice of providing ACID compliance, but without many of the other
 features of a typical RDBMS. My personal take is that it is a reboot on
 relational databases that recognizes potential "requirements" that can
 be safely dropped and advertised in order to gain better performance.
+
 After spending a good deal of time with MongoDB and some similar
 home-grown databases, I don't believe that SQL is really the problem.
+
 More specifically, I don't think the relational model is the problem,
 but rather how we think about storing things. Just because you are using
 a RDBMS it doesn't mean you have to normalize your data. It doesn't mean
@@ -20,6 +22,7 @@ problem from a simpler perspective is helpful because when you take away
 larger preconceived ideas of how you "should" do things, it allows you
 room to consider what is both possible and realistically evaluate what
 could work for your situation.
+
 Many times NoSQL solutions are based on the idea of having a key /
 value store. The need to query is often bolted on this aspect by
 providing data types and recognizing JSON formatted "values" in the
@@ -35,8 +38,10 @@ and utilizing the indexes to find the data. Just because you are not
 using SQL, it doesn't mean you magically remove the limitations of
 computer hardware and the years of research that has been done on how to
 effectively store data.
+
 My point is not to tout RDBM systems as the perfect solutions because
 they are not. The point here is to recognize there isn't a free lunch.
+
 I'm sure if Facebook had a system based on MongoDB, Redis or CouchDB
 there would be a massive amount of complexity there as well. Storing
 massive amounts of data quickly and retrieving it is not a simple

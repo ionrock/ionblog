@@ -7,8 +7,10 @@ cache, but it is not threadsafe. I tried to create a version that uses a
 single writer thread to write to the cache files, but that ended up
 being rather complex. I then started trying to write my open simple lock
 file rather than use the `fcntl`_ module. This also fell over in tests.
+
 I started considering the fcntl module when I found out there is
 `os.open`_ which seems to support the same flags.
+
 I have tests passing and some really simple code that seems to work,
 but I suspect I'm missing something. Jason wrote `yg.lockfile`_ which
 uses `zc.lockfile`_. The difference being that zc.lockfile does the
@@ -18,6 +20,7 @@ locking flags get set. There is also `this lock file implementation`_
 mentioned on `Stack Overflow`_. It shouldn't be surprising there is
 another `file locking library`_ that might have some useful tips within
 its design.
+
 I'm not going to suggest that I have the answers for perfect file
 locking. That said, after looking through the different examples, there
 are a few basic use cases you need to be aware of.
@@ -33,6 +36,7 @@ the process exits unexpectedly. If this happens and your lock is still
 around, what do you do to take back that lock? Using a separate file
 with the pid in the contents is a good way to do that without locking
 the actual file you are working with.
+
 The last point regarding the platform independence is primarily because
 if you don't need to deal with a specific platform, then don't. Most of
 the time you are locking a file, it is because you are dealing with a
@@ -44,6 +48,7 @@ trouble of understanding the low level filesystem flags. There are a lot
 of articles out there on using fcntl, all of which saying that it can be
 tricky. Avoid the headache of also learning the Windows specific bits if
 you don't have to.
+
 It is frustrating that this has been this difficult. I honestly
 expected there to be a file locking library or function in the standard
 library. That said, it is definitely possible that I'm simply missing

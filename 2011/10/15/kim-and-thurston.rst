@@ -10,6 +10,7 @@ impacts the music. It isn't a touchy subject or anything, but it does
 feel slightly invasive in that it is our business. It obviously impact
 our relationship in both positive and negative ways, but every marriage
 has similar challenges, whether it is finances or kids.
+
 Yet even though we like to believe our struggles and triumphs are just
 par for the course, musicians typically have a pretty bad track record
 for keeping relationships together. There is always the addition of
@@ -18,13 +19,16 @@ the equation. But that was why Kim and Thurston doing well seemed like a
 small glimmer of hope. They were doing it just fine and seemed like a
 relatively normal couple. Amidst the examples of rock couples, I would
 have said they were making it all work.
+
 Really though, I shouldn't be surprised. Marriage and music are two
 tough things to do and doing them together doesn't make anything easier.
+
 Just because they were a success story or someone we could look at as an
 example, it doesn't mean they didn't have struggles or grew apart
 throughout the years. There are probably millions of couples out there
 having similar problems and separating, so why would Kim and Thurston be
 any different? Of course, that doesn't make it any less tragic.
+
 I do think Lauren and I have better examples for marriage than some
 folks in a great band. We both have parents that have good
 relationships. They've struggled and been through difficult times and
@@ -32,6 +36,7 @@ managed to come away stronger and closer to each other. My Dad even
 `wrote a book`_ on the subject. It is good to know that when things are
 tough, if you can stick to it and try to change yourself, there can be
 good times again.
+
 As an aside, if you are married and are ever having trouble, I can
 recommend my Dad's book and seminar. I realize that it might not seem
 applicable if you don't go to church or aren't really religious, but the

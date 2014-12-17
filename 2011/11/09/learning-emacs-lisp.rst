@@ -6,6 +6,7 @@ has widely been considered one of those languages that will change the
 way you program by opening your mind to new ways of thinking about
 problems. While I think this is true, my suggestion to learn lisp is
 completely practical.
+
 One of the benefits of Vi(m) is that you can stay in the shell most of
 the time. Vim can be like an advanced pager at times, batch editor or
 diff tool because the workflow is to stay in the shell and open it on
@@ -17,6 +18,7 @@ paradigms it offers. You have a file manager, process runner, manual
 reader, IRC, etc. all from within Emacs and all using a text based
 paradigm. Therefore, if you want to optimize your environment, you need
 lisp.
+
 If you've ever known someone good at a GUI toolkit you'll notice they
 are very quick to produce simple GUI tools. They see a UI and can
 immediately start coding something up that presents them with the data
@@ -25,6 +27,7 @@ interface for some server process without batting an eye. When you learn
 Emacs Lisp, you are learning a similar skill in that you immediately can
 see places where you'd like to optimize your system and create a UI for
 it.
+
 A really good example of where this makes a difference is in copying
 and pasting. It is one of those things developers do all the time. They
 paste code or URLs from things like terminals, email, browsers, etc.
@@ -38,6 +41,7 @@ around in terms of selecting it, copying it to some clipboard, changing
 applications and pasting it. Instead you can see some text and
 immediately run commands on it, using the output immediately afterwards
 directly in your editor.
+
 A great example of this workflow is a paste function I wrote. We have a
 local pastebin at my job (you can download your own version `here`_)
 along with an IRC bot. As all the developers work remotely, the ability
@@ -53,6 +57,7 @@ selected code to the pastebin, use the mode of the current buffer to
 find the type of code (for highlighting), get the resulting URL and add
 it to the kill ring so I can immediately copy it in IRC, which I'm
 running in Emacs.
+
 This might sound like a lot of work, but honestly it wasn't much work
 at all. I'm not an Emacs Lisp guru by any stretch but by picking up a
 little here and there and getting used to the docs, writing small

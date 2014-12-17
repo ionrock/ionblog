@@ -8,6 +8,7 @@ while not getting the respect they deserve is very motivating when it
 comes to supporting things like the Ada Initiative. While I don't have
 the same experience in technology in terms of seeing sexism at work, I
 have definitely seen it happen and it is really wrong.
+
 Also, I don't think that sexist actions mean you really have a deep
 seated lesser opinion of the opposite sex. This goes for many small
 subtle acts of bigotry. But that is the point. There are many times we
@@ -20,6 +21,7 @@ reflects what I really think. What it does reflect is that there are
 accepted forms of bigotry in our society that are really easy to
 maintain. It takes practice and awareness to recognize it and make it
 change.
+
 Finally, I hope it is clear that this kind of thinking is not
 necessarily based around feelings. When you demean someone else, it
 doesn't matter why, you are removing their opportunities. The Ada
@@ -28,6 +30,7 @@ only hire people who care about open source software and have tried to
 contribute. By avoiding the effort to include these women, you not only
 hurt their stature in the community, you also are hurting their career
 opportunities.
+
 I'm really excited about The Ada Initiative. As a society we can only
 become better by recognizing our flaws and correcting them. Bigotry is a
 flaw because it hides reality. Making an effort to include more women in

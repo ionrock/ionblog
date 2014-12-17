@@ -1,4 +1,4 @@
-I Can&#039;t Sleep Right Now
+I Can't Sleep Right Now
 ############################
 
 I'd like to take a quick nap but I'm parked outside some dorm room and

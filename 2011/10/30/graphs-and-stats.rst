@@ -7,12 +7,14 @@ math and formula that I have limited experience with have yet to have
 requirements that force me to acquire that experience. What I do see
 pretty consistently are graphs. I can say with the utmost confidence,
 that graphs are not what statistics are really about.
+
 A graph is all about communication. It is a visual representation of
 some data that is meant to convey some relationship or lack of a
 relationship. Graphs can be changed and manipulated to express
 differences as huge jumps or radical contrasts. They can be used to
 reveal real trends and find outliers. A graph is just a tool used to
 communicate, which means it can be accurate or biased.
+
 Statistics on the other hand are math, plain and simple. They are
 formulas and theories that help take answers and calculate relationships
 with specific understood precisions using specific constraints. From the
@@ -24,6 +26,7 @@ all math and we were told very specifically how to phrase results. The
 reason being is that stats is not about predicting or finding
 correlation, it is about assigning values to results much like equations
 are used to map things like sound waves and graphics.
+
 I mention this because recently I've seen some graphs on social
 networks with commentary on the results as though something has been
 proven correct. One thing my experience at my job has taught me is that
