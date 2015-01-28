@@ -4,6 +4,14 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2015/01/28/cachecontrol_0_11_0_released
+   2015/01/22/replacing_monitors
+   2015/01/16/devops
+   2015/01/14/logging
+   2015/01/12/build_tools
+   2015/01/09/anti_patterns
+   2014/12/22/software_project_structure_and_ecosystems
+   2014/12/19/flask_vs_cherrypy
    2014/12/17/thinking_about_etls
    2014/11/08/dadd_erroremail_and_cachecontrol_releases
    2014/11/03/ugly_attributes
