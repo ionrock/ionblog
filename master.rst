@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2015/02/05/todo_lists
    2015/01/28/cachecontrol_0_11_0_released
    2015/01/22/replacing_monitors
    2015/01/16/devops
