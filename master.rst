@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2015/03/09/hello_rackspace
    2015/03/05/setting_up_magit_gerrit_in_emacs
    2015/02/05/todo_lists
    2015/01/28/cachecontrol_0_11_0_released
