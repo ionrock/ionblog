@@ -4,6 +4,11 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2015/05/07/announcing_rdo
+   2015/04/10/virtual_machine_development
+   2015/03/26/tsf_and_randstr
+   2015/03/20/automate_everything
+   2015/03/12/server_buffer_names_in_circe
    2015/03/09/hello_rackspace
    2015/03/05/setting_up_magit_gerrit_in_emacs
    2015/02/05/todo_lists
