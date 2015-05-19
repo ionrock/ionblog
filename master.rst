@@ -4,6 +4,8 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2015/05/19/docker_vs_provisioning
+   2015/05/08/some_thoughts_on_agile
    2015/05/07/announcing_rdo
    2015/04/10/virtual_machine_development
    2015/03/26/tsf_and_randstr

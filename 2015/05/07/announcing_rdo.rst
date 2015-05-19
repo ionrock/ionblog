@@ -25,12 +25,13 @@ My answer to this is `rdo <https://github.com/ionrock/rdo>`_.
 Why `rdo`
 ---------
 
-I have a similar project called `xe` that you can configure to sort
-out your path when in a specific project. For example, if I have a
-`virtualenv <https://virtualenv.pypa.io/en/latest/>`_ `venv`, in my
-cloned repo, I can use `xe python` to run the correct python without
-having to activate the virtualenv or manually include the path to the
-python executable.
+I have a similar project called `xe <https://github.com/ionrock/xe>`_
+that you can configure to sort out your path when in a specific
+project. For example, if I have a `virtualenv
+<https://virtualenv.pypa.io/en/latest/>`_ `venv`, in my cloned repo, I
+can use `xe python` to run the correct python without having to
+activate the virtualenv or manually include the path to the python
+executable.
 
 `rdo` works in a similar way, the difference being that instead of
 adjust the path, it configures the command to run on a remote machine,
@@ -77,10 +78,11 @@ correct directory and run your command.
 Conclusion
 ----------
 
-I hope you give it a try and report back any issues. At the moment it
-extremely basic in that it doesn't do anything terribly smart as far
-as escaping goes. I hope to remedy that as well as support generic ssh
-connections as well.
+I hope you give it a try and report back any `issues
+<https://github.com/ionrock/rdo/issues>`_. At the moment it extremely
+basic in that it doesn't do anything terribly smart as far as escaping
+goes. I hope to remedy that as well as support generic ssh connections
+as well.
 
 
 .. author:: default
