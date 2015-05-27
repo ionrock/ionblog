@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2015/05/27/playing_with_repose
    2015/05/19/docker_vs_provisioning
    2015/05/08/some_thoughts_on_agile
    2015/05/07/announcing_rdo
