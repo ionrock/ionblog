@@ -53,7 +53,7 @@ decent defaults.
    $ mkdir etc
    $ docker run -it -v `pwd`/etc:/code repose-playground cp -r /etc/repose /code
 
-Now we have our config in `./etc/respose`, we can try something
+Now we have our config in `./etc/repose`, we can try something
 out. Lets change our default endpoint to point to a different website.
 
 .. code-block:: xml
