@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2015/06/18/announcing_withenv
    2015/06/16/log_buffering
    2015/06/04/devops_system_calls
    2015/05/27/playing_with_repose
