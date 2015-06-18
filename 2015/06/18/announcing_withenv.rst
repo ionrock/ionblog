@@ -125,7 +125,7 @@ supported.
 If you don't pass any argument to the `we` command it will output he
 environment as a bash script using `export` to set variables.
 
-`Withenv <https://github.com/ionrock/withenv` is available on `pypi
+`Withenv <https://github.com/ionrock/withenv>`_ is available on `pypi
 <https://pypi.python.org/pypi/withenv>`_. Please let me know if you
 give it a try.
 
