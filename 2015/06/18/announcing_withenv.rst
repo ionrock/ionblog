@@ -130,6 +130,6 @@ environment as a bash script using `export` to set variables.
 give it a try.
 
 .. author:: default
-.. categories:: none
-.. tags:: none
+.. categories:: code
+.. tags:: python, devops
 .. comments::
