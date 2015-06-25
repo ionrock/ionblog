@@ -131,5 +131,5 @@ give it a try.
 
 .. author:: default
 .. categories:: code
-.. tags:: python, devops
+.. tags:: python, devopso
 .. comments::
