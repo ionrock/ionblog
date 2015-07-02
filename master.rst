@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2015/07/02/operators
    2015/06/26/docker_vs_chef
    2015/06/25/emacs_and_strings
    2015/06/18/announcing_withenv
