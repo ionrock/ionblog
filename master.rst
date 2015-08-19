@@ -4,6 +4,9 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2015/08/11/getting_paid
+   2015/08/10/heat_vs_ansible
+   2015/07/20/vendoring_dependencies
    2015/07/06/small_functions_without_an_ide
    2015/07/02/operators
    2015/06/26/docker_vs_chef
