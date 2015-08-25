@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2015/08/25/config_files
    2015/08/11/getting_paid
    2015/08/10/heat_vs_ansible
    2015/07/20/vendoring_dependencies
