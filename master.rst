@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2015/09/08/more_virtual_machine_development
    2015/08/25/config_files
    2015/08/11/getting_paid
    2015/08/10/heat_vs_ansible
