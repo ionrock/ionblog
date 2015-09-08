@@ -1,5 +1,6 @@
-Operators
-=========
+===========
+ Operators
+===========
 
 Someone mentioned to me a little while back a disinterest in going to
 `PyCon <https://us.pycon.org/>`_ because it felt directed towards

@@ -23,8 +23,8 @@ order to configure a script is easy to screw up. The fact these env
 vars are long lasting only makes it more difficult to automate
 reliably.
 
-`Withenv <http://github.com/ionrock/withenv>`_ tries to improve this
-situation by providing some helpful features:
+Withenv_ tries to improve this situation by providing some helpful
+features:
 
  - Setup the environment for each command without it leaking into your
    shell
@@ -126,7 +126,7 @@ supported.
 If you don't pass any argument to the `we` command it will output he
 environment as a bash script using `export` to set variables.
 
-`Withenv <https://github.com/ionrock/withenv>`_ is available on `pypi
+Withenv_ is available on `pypi
 <https://pypi.python.org/pypi/withenv>`_. Please let me know if you
 give it a try.
 
@@ -134,3 +134,5 @@ give it a try.
 .. categories:: code
 .. tags:: python, devopso
 .. comments::
+
+.. _Withenv: http://github.com/ionrock/withenv
