@@ -4,6 +4,8 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2015/10/01/modern_development
+   2015/09/28/ansible_and_version_control
    2015/09/08/more_virtual_machine_development
    2015/08/25/config_files
    2015/08/11/getting_paid
