@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2015/11/10/the_rough_edges_of_openstack
    2015/10/12/development_in_the_cloud
    2015/10/01/modern_development
    2015/09/28/ansible_and_version_control
