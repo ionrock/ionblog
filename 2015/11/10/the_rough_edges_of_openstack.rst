@@ -89,7 +89,7 @@ system. Octavia does a similar task, but specifically for `haproxy
 
 It doesn't stop there though. OpenStack aims to be as flexible as
 possible in order to cater to the needs / preferences of operators. If
-one organization prefers `Postgres <http://www.postgresql.org/>`_ of
+one organization prefers `Postgres <http://www.postgresql.org/>`_ over
 `MySQL <https://www.mysql.com/>`_ that should be supported because an
 operator will need to manage that database. The result is that many
 libraries tend to provide the same sort of wrapping. `Tooz
