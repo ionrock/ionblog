@@ -6,7 +6,7 @@ bootstrap:
 	$(VENV)/bin/pip install tinkerer
 
 build:
-	tinker -b
+	$(VENV)/bin/tinker -b
 
 release:
 	rsync -r blog/html/ eric@ionrock.org:htdocs/
