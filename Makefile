@@ -1,11 +1,11 @@
-VENV := .venv
+VENV=.venv
 
 
-bootstrap:
+$(VENV)/bin/tinker:
 	virtualenv $(VENV)
 	$(VENV)/bin/pip install tinkerer
 
-build:
+build: $(VENV)/bin/tinker
 	$(VENV)/bin/tinker -b
 
 release:
