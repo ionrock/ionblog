@@ -6,7 +6,7 @@ $(VENV)/bin/tinker:
 	$(VENV)/bin/pip install tinkerer
 
 build: $(VENV)/bin/tinker
-	$(VENV)/bin/tinker -b
+	. $(VENV)/bin/activate && $(VENV)/bin/tinker -b
 
 release:
 	rsync -r blog/html/ eric@ionrock.org:htdocs/
