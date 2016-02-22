@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2016/02/22/balancing_security_and_convenience
    2015/11/10/the_rough_edges_of_openstack
    2015/10/12/development_in_the_cloud
    2015/10/01/modern_development
