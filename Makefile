@@ -1,4 +1,5 @@
 VENV=.venv
+SERVE_PORT=8080
 
 
 $(VENV)/bin/tinker:
@@ -10,3 +11,6 @@ build: $(VENV)/bin/tinker
 
 release:
 	rsync -r blog/html/ eric@ionrock.org:htdocs/
+
+serve:
+	docker run -v `pwd`/blog/html:/usr/share/nginx/html:ro -p $(SERVE_PORT):80 -d nginx
