@@ -13,4 +13,4 @@ release:
 	rsync -r blog/html/ eric@ionrock.org:htdocs/
 
 serve:
-	docker run -v `pwd`/blog/html:/usr/share/nginx/html:ro -p $(SERVE_PORT):80 -d nginx
+	docker run --name ionblog -v `pwd`/blog/html:/usr/share/nginx/html:ro -p $(SERVE_PORT):80 -d nginx
