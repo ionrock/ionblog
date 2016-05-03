@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2016/05/03/balancing_microservices
    2016/04/04/rest_cli
    2016/02/22/balancing_security_and_convenience
    2015/11/10/the_rough_edges_of_openstack
