@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2016/06/03/learning_golang
    2016/05/03/balancing_microservices
    2016/04/04/rest_cli
    2016/02/22/balancing_security_and_convenience
