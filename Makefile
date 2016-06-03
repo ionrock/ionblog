@@ -9,8 +9,11 @@ $(VENV)/bin/tinker:
 build: $(VENV)/bin/tinker
 	. $(VENV)/bin/activate && $(VENV)/bin/tinker -b
 
-release:
+release-remote:
 	rsync -r blog/html/ eric@ionrock.org:htdocs/
+
+release:
+	cp -r blog/html/ /usr/share/nginx/html/
 
 serve:
 	docker run --name ionblog -v `pwd`/blog/html:/usr/share/nginx/html:ro -p $(SERVE_PORT):80 -d nginx
