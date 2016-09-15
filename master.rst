@@ -277,4 +277,5 @@ Sitemap
    2010/01/08/keeping-track-of-translations
    2010/01/07/crash-and-burn
    2010/01/03/holy-cow-i-fixed-our-four-track
+   pages/resume
    2009/12/28/more-getting-past-programmers-block
