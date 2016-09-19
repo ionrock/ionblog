@@ -60,28 +60,30 @@ software to improve the lower level data plane as needed. Our primary
 task is to release Designate as a version 2 of our Cloud DNS API,
 deprecating two legacy codebases and enable billing.
 
- - Created, Panama, an API to enforce consistency between the legacy
-   DNS control plane and Designate. Panama verifies whether a zone
-   exists in either system and is able to adjust the business logic
-   throughout the process of migration, giving preference to the
-   relevant system over time.
-
  - Designed and merged a hookpoint API in upstream Designate. This
    allows applying decorators to functions via an operator's
    configuration, reducing the need to keep a separate fork of the
    codebase when changes are necessary to integrate into a specific
    environment.
 
+ - Created, Panama, an API to enforce consistency between the legacy
+   DNS control plane and Designate. Panama verifies whether a zone
+   exists in either system and is able to adjust the business logic
+   throughout the process of migration, giving preference to the
+   relevant system over time. Panama was critical to ensuring data
+   consistency across our entire DNS infrastructure.
+
  - Designed and co-authored a new worker model in Designate. Prior to
    this change, Designate used specialized services that were
    complicated to operate and added a huge amount of complexity in the
-   codebase, including bugs that made core features broken. In
-   explained the issues to some younger developers on the team and
-   mentored them through the implementation, fixing the last critical
-   bugs necessary for our next milestone.
+   codebase, including bugs that made core features broken. I
+   explained the problems and a potential fix to some younger
+   developers on the team and mentored them through the
+   implementation, fixing the last critical bugs necessary for our
+   next milestone.
 
- - Lead the developer side of the DevOps operations code base,
-   providing best practices and templates for many other established
+ - Lead the developer side of the DevOps operational code base that
+   proved to be a best practice and was implemented by many other
    teams within Rackspace. This included the use of Withenv for
    managing environment data and driving operations, the use of
    Makefiles for a standard entrypoint into projects, a documentation
