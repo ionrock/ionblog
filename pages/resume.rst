@@ -97,8 +97,8 @@ deprecating two legacy codebases and enable billing.
    Tokyo and Austin as well as attending midcycle meetups over seas.
 
  - Wrote Rebindr, a tool to propagate zones between two instances of
-   the Bind DNS server. Rebindr provides a bind and DNS based solution
-   to ensure zones created on stealth masters are propagated to
+   the Bind DNS server. Rebindr provides a DNS based solution to
+   ensure zones created on stealth masters are propagated to
    production masters in a timely fashion, without impacting the
    performance of the production masters. Rebindr improved propgation
    time of creates by 10x. It also allowed the rate limit for zone
