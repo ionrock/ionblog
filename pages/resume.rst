@@ -40,7 +40,7 @@ Open Source Projects
  - `Bach <https://github.com/ionrock/bach>`_ - Bach is a set of small
    utilities written in `Go <https://golang.org>`_ to help legacy apps
    written without `12 Factor <https://12factor.net>`_ methods, bridge
-   the operational gap necessary for deployment in the cloud and onn
+   the operational gap necessary for deployment in the cloud and on
    containers.
 
 
@@ -51,19 +51,19 @@ Work Experience
 Rackspace 2016-Present
 ----------------------
 
-I work on the Cloud DNS team, contributing to the Openstackk DNSaaS
+I work on the Cloud DNS team, contributing to the Openstack DNSaaS
 project `Designate
 <http://docs.openstack.org/developer/designate/>`_. My role includes
 upstream development, maintaining and iterating on the operational
-codebase, mentoring younger developers on the team and providing
+code base, mentoring younger developers on the team and providing
 software to improve the lower level data plane as needed. Our primary
 task is to release Designate as a version 2 of our Cloud DNS API,
-deprecating two legacy codebases and enable billing.
+deprecating two legacy code bases and enable billing.
 
  - Designed and merged a hookpoint API in upstream Designate. This
    allows applying decorators to functions via an operator's
    configuration, reducing the need to keep a separate fork of the
-   codebase when changes are necessary to integrate into a specific
+   code base when changes are necessary to integrate into a specific
    environment.
 
  - Created, Panama, an API to enforce consistency between the legacy
@@ -76,7 +76,7 @@ deprecating two legacy codebases and enable billing.
  - Designed and co-authored a new worker model in Designate. Prior to
    this change, Designate used specialized services that were
    complicated to operate and added a huge amount of complexity in the
-   codebase, including bugs that made core features broken. I
+   code base, including bugs that made core features broken. I
    explained the problems and a potential fix to some younger
    developers on the team and mentored them through the
    implementation, fixing the last critical bugs necessary for our
@@ -86,7 +86,7 @@ deprecating two legacy codebases and enable billing.
    proved to be a best practice and was implemented by many other
    teams within Rackspace. This included the use of Withenv for
    managing environment data and driving operations, the use of
-   Makefiles for a standard entrypoint into projects, a documentation
+   Makefiles for a standard entry point into projects, a documentation
    best practice to provide for pull-request based communication
    within a team and utilizing docker for consistent builds within
    development and continuous integration.
@@ -94,13 +94,13 @@ deprecating two legacy codebases and enable billing.
  - Within my first year, I became a Core Reviewer for Designate and
    was included in the Open Stack Leadership Team within
    Rackspace. This included presenting at the OpenStack Summit in
-   Tokyo and Austin as well as attending midcycle meetups over seas.
+   Tokyo and Austin as well as attending mid-cycle meetups over seas.
 
  - Wrote Rebindr, a tool to propagate zones between two instances of
    the Bind DNS server. Rebindr provides a DNS based solution to
    ensure zones created on stealth masters are propagated to
    production masters in a timely fashion, without impacting the
-   performance of the production masters. Rebindr improved propgation
+   performance of the production masters. Rebindr improved propagation
    time of creates by 10x. It also allowed the rate limit for zone
    creation to go from a global limit of ~10 zones per minute to ~200.
 
@@ -156,38 +156,6 @@ data warehouse and data analytics system.
    needed at any time. This was written in my free time when I became
    tired of having to build, release and deploy a new version of the
    code in order to integrate an updated PO emailed to me by a user.
-
-
-BSG Alliance 2007-2008
-----------------------
-
-BSG Alliance was a startup aimed at providing social tools such as
-wikis, blogs, social networking and forums for large enterprise
-customers.
-
- - Used Ruby on Rails to implement a REST gateway service to safely
-   allow cross site communication via JavaScript. This was used to
-   implement client side widgets that could safely and reliably
-   communicate to our back end services on client hosts.
-
-
-Amp.fm 2007-2008
-----------------
-
-Amp.fm was a short lived music startup. I met the founder and other
-initial employees through blogging for O'Reilly and my work with Python
-and XSLT. While there were very powerful ideas, it ended up being a good
-learning experience that taught me the importance of getting things
-done.
-
- - Utilized an utterly crazy, yet ambitious, XSLT based web framework
-   to create RESTful services using AWS services during the early days
-   of EC2. This was before Amazon EBS, so we used a FUSE file system
-   that synced to S3!
-
- - Wrote an mailing list signup app in Python for a booth at the
-   College Music Journal Festival in 10 minutes. This allowed us to
-   collect 300+ emails over the course of the weekend.
 
 
 WebWorks 2006-2007
