@@ -58,7 +58,7 @@ upstream development, maintaining and iterating on the operational
 code base, mentoring younger developers on the team and providing
 software to improve the lower level data plane as needed. Our primary
 task is to release Designate as a version 2 of our Cloud DNS API,
-deprecating two legacy code bases and enable billing.
+deprecating two legacy code bases.
 
  - Designed and merged a hookpoint API in upstream Designate. This
    allows applying decorators to functions via an operator's
@@ -73,36 +73,31 @@ deprecating two legacy code bases and enable billing.
    relevant system over time. Panama was critical to ensuring data
    consistency across our entire DNS infrastructure.
 
- - Designed and co-authored a new worker model in Designate. Prior to
-   this change, Designate used specialized services that were
-   complicated to operate and added a huge amount of complexity in the
-   code base, including bugs that made core features broken. I
-   explained the problems and a potential fix to some younger
-   developers on the team and mentored them through the
-   implementation, fixing the last critical bugs necessary for our
-   next milestone.
+ - Designed and co-authored a new worker model in Designate. The
+   archtectural shift provided for consistent performance at scale and
+   eliminated the final issues blocking our next milestone. The worker
+   model also reduced the operational complexity removing two distinct
+   processes and providing the framework for a critical component to
+   be rewritten in Go for performance reasons.
 
- - Lead the developer side of the DevOps operational code base that
+ - Led the developer side of the DevOps operational code base that
    proved to be a best practice and was implemented by many other
    teams within Rackspace. This included the use of Withenv for
    managing environment data and driving operations, the use of
-   Makefiles for a standard entry point into projects, a documentation
-   best practice to provide for pull-request based communication
+   Makefiles for a standard entry point into projects, documentation
+   best practices to provide for pull-request based communication
    within a team and utilizing docker for consistent builds within
    development and continuous integration.
 
- - Within my first year, I became a Core Reviewer for Designate and
-   was included in the Open Stack Leadership Team within
-   Rackspace. This included presenting at the OpenStack Summit in
-   Tokyo and Austin as well as attending mid-cycle meetups over seas.
+ - Achieved Core Reviewer for Designate and inclusion in the Open
+   Stack Leadership Team within Rackspace. This included presenting at
+   the OpenStack Summit in Tokyo and Austin as well as attending
+   mid-cycle meetups over seas.
 
  - Wrote Rebindr, a tool to propagate zones between two instances of
-   the Bind DNS server. Rebindr provides a DNS based solution to
-   ensure zones created on stealth masters are propagated to
-   production masters in a timely fashion, without impacting the
-   performance of the production masters. Rebindr improved propagation
-   time of creates by 10x. It also allowed the rate limit for zone
-   creation to go from a global limit of ~10 zones per minute to ~200.
+   the Bind DNS server. Rebindr improves propagation time of creates
+   by 10x. It also allows the rate limit for zone creation to go from
+   a global limit of ~10 zones per minute to ~200.
 
  - Added a hilarious `dadjoke` plugin to our hubot instance to provide
    a little light hearted humor throughout the day.
