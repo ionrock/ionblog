@@ -1,5 +1,5 @@
 Devops Mindset
-##############
+==============
 
 I've never said it, but I've never really been a fan of the devops
 concept. I have no problem with developers doing deployments or having

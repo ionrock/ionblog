@@ -1,5 +1,5 @@
 The New Boss
-############
+============
 
 I finally got around to reading "`Meet The New Boss, Worse Than The Old
 Boss?`_\ ". The `one response`_ I did read concluded with a prime
