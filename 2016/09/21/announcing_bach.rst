@@ -89,14 +89,14 @@ we still need to add it to our application's configuration. For that
 we'll use `toconfig`. We use a simple template to write the config
 before running our app.
 
-.. code-block::
+.. code-block:: conf
 
    [database]
    dburi = {{ DBURI }}
 
 We can test this template by running the following command.
 
-.. code-block::
+.. code-block:: bash
 
    $ DBURI=mysql://1.2.3.4/foo toconfig --template app.conf.tmpl
 
