@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2016/12/04/configuration_and_environments
    2016/09/21/announcing_bach
    2016/06/03/learning_golang
    2016/05/03/balancing_microservices
