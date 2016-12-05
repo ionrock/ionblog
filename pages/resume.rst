@@ -7,65 +7,22 @@
 :Email: eric@ionrock.org
 
 
-
-Summary of Qualifications
-=========================
-
-I'm an expert in Python, having 10 years of experience writing Open
-Source software, both as a contributor and a leader. I'm an OpenStack
-Core Reviewer for Designate, the OpenStack DNSaaS project. My DevOps
-best practices and tools have been recommended throughout the
-operations organization within Rackspace. I've been a mentor to junior
-developers driving a major architectural shift in the Designate
-project.
-
-
 Open Source Projects
 ====================
 
- - `CacheControl <http://github.com/ionrock/cachecontrol/>`_ - I'm the
-   primary author of CacheControl. It is *the* recommended cache
-   implementation for requests and is included in `pip
-   <http://pip-installer.org>`_, the standard Python packaging
-   tool. CacheControl is a HTTP caching algorithm library for
-   `requests
-   <http://docs.python-requests.org/en/latest/>`_. CacheControl builds
-   off of the excellent caching algorithms in httplib2 to allow for
-   robust, distributed and threadsafe cache implementations.
+ - `CacheControl <http://github.com/ionrock/cachecontrol/>`_ - I'm the primary author of CacheControl. It is *the* recommended cache implementation for requests and is included in `pip <http://pip-installer.org>`_, the standard Python packaging tool. CacheControl is a HTTP caching algorithm library for `requests <http://docs.python-requests.org/en/latest/>`_. CacheControl builds off of the excellent caching algorithms in httplib2 to allow for robust, distributed and threadsafe cache implementations.
 
- - `Withenv <https://github.com/ionrock/withenv>`_ - A tool to manage
-   environment variables on a per command basis using YAML
-   files. Withenv is an essential tool in our DevOps workflow for
-   driving operations.
+ - `Withenv <https://github.com/ionrock/withenv>`_ - A tool to manage environment variables on a per command basis using YAML files. Withenv is an essential tool in our DevOps workflow for driving operations.
 
- - `Xe <https://github.com/ionrock/xe>`_ - The `xe` command setups an
-   executable environment on a per-command basis, providing consistent
-   commands, even when using different tooling in an environment. Xe
-   allows automating things like builds and tests for CI/CD while
-   allowing autonomy in development.
+ - `Xe <https://github.com/ionrock/xe>`_ - The `xe` command setups an executable environment on a per-command basis, providing consistent commands, even when using different tooling in an environment. Xe allows automating things like builds and tests for CI/CD while allowing autonomy in development.
 
- - `Rdo <https://github.com/ionrock/rdo>`_ - Rdo allows running
-   commands transparently on a remote machine, or more commonly, a
-   `Vagrant <https://www.vagrantup.com/>`_ VM in order to capitalize
-   on local tooling that processes stdout such as traceback parsing.
+ - `Rdo <https://github.com/ionrock/rdo>`_ - Rdo allows running commands transparently on a remote machine, or more commonly, a `Vagrant <https://www.vagrantup.com/>`_ VM in order to capitalize on local tooling that processes stdout such as traceback parsing.
 
- - `Buildenv <https://github.com/ionrock/buildenv>`_ - We use `Jenkins
-   <https://jenkins.io/index.html>`_ for CI/CD along with the `build
-   flow
-   <https://wiki.jenkins-ci.org/display/JENKINS/Build+Flow+Plugin>`_
-   plugin. Buildenv replicates aspects of the buildflow plugin in order
-   to run complex deployment flows locally for testing.
+ - `Buildenv <https://github.com/ionrock/buildenv>`_ - We use `Jenkins <https://jenkins.io/index.html>`_ for CI/CD along with the `build flow <https://wiki.jenkins-ci.org/display/JENKINS/Build+Flow+Plugin>`_ plugin. Buildenv replicates aspects of the buildflow plugin in order to run complex deployment flows locally for testing.
 
- - `Bach <https://github.com/ionrock/bach>`_ - Bach is a set of small
-   utilities written in `Go <https://golang.org>`_ to help legacy apps
-   written without `12 Factor <https://12factor.net>`_ methods, bridge
-   the operational gap necessary for deployment in the cloud and on
-   containers.
+ - `Bach <https://github.com/ionrock/bach>`_ - Bach is a set of small utilities written in Go to help legacy apps utilize 12 Factor techniques. Bach provides a more featureful Withenv command that my team has been using for driving deployments.
 
- - `Openstack Designate
-   <http://docs.openstack.org/developer/designate/>`_ - Designate is
-   the DNSaaS offering for Openstack. In the 2016 Openstack User
-   Survey, Designate ranked 2nd in user interest.
+ - `Openstack Designate <http://docs.openstack.org/developer/designate/>`_ - Designate is the DNSaaS offering for Openstack. In the 2016 Openstack User Survey, Designate ranked 2nd in user interest.
 
 
 
